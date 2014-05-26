@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+	android:orientation="vertical"
+	android:background="@color/black">
+                   
+       	<TextView
+	       android:layout_width="wrap_content" android:layout_height="wrap_content"
+	       android:text="About Us" android:textColor="@color/white" android:id="@+id/about"
+	       android:layout_centerHorizontal="true"
+	       android:layout_marginLeft="105.0dip" android:textSize="22sp" android:layout_marginTop="20.0dip">
+	    </TextView>
+	    
+       	<TextView
+	       android:layout_width="wrap_content" android:layout_height="wrap_content"
+	       android:text="This application is a small demo that will return the nearby market on the google map and also its detailed infomation in the results section.\n\nThank you!" 
+	       android:textColor="@color/white" android:id="@+id/about_us"
+	       android:layout_marginLeft="15.0dip" android:textSize="22sp" android:layout_marginTop="20.0dip"
+	       android:layout_below="@+id/about">
+	    </TextView>
+
+</RelativeLayout>

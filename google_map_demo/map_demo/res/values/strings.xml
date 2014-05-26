@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LocationNearby</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="str_btn_find">Find</string>
+
+    <string name="main_results">Results</string>
+    <string name="main_home">Main</string>
+    <string name="about">About</string>
+    <string name="main_manage_date">Time</string>
+    <string name="main_friends">Friends</string>
+    
+    <string-array name="place_type">
+        <item>hospital</item>
+        <item>pharmacy</item>
+        <item>airport</item>
+        <item>atm</item>
+        <item>bank</item>
+        <item>bus_station</item>
+        <item>church</item>
+        <item>doctor</item>
+        <item>mosque</item>
+        <item>movie_theater</item>
+        <item>restaurant</item>
+    </string-array>
+ 
+    <string-array name="place_type_name">
+        <item>Hospital</item>
+        <item>Pharmacy</item>
+        <item>Airport</item>
+        <item>ATM</item>
+        <item>Bank</item>
+        <item>Bus Station</item>
+        <item>Church</item>
+        <item>Doctor</item>
+        <item>Mosque</item>
+        <item>Movie Theater</item>
+        <item>Restaurant</item>
+    </string-array>
+</resources>
